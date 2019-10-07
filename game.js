@@ -19,7 +19,9 @@ var scene,
 var HEIGHT, WIDTH,
     mousePos = { x: 0, y: 0 };
 
+
 //INIT THREE JS, SCREEN AND MOUSE EVENTS
+//https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/
 
 function createScene() {
 
